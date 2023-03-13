@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Hauz Khas Social",
+        "cuisines": "Continental, American, Asian, North Indian",
+        "time_slot": [
+            { "opens_at": 10, "closes_at": 14 },
+            { "opens_at": 15, "closes_at": 18 },
+            { "opens_at": 19, "closes_at": 23 },
+        ],
+        "open_days": ['MON', 'WED', 'FRI']
+    },
+    {
+        "name": "Qubitos - The Terrace Cafe",
+        "cuisines": "Thai, European, Mexican, North Indian, Chinese, Cafe",
+        "time_slot": [
+            { "opens_at": 9, "closes_at": 12 },
+            { "opens_at": 13, "closes_at": 18 },
+            { "opens_at": 19, "closes_at": 24 },
+        ],
+        "open_days": ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN']
+    },
+    {
+        "name": "The Hudson Cafe",
+        "cuisines": "Cafe, Italian, Continental, Chinese",
+        "time_slot": [
+            { "opens_at": 10, "closes_at": 14 },
+            { "opens_at": 16, "closes_at": 24 },
+        ],
+        "open_days": ['FRI', 'SAT', 'SUN']
+    },
+    {
+        "name": "Summer House Cafe",
+        "cuisines": "Italian, Continental",
+        "time_slot": [
+            { "opens_at": 9, "closes_at": 24 },
+        ],
+        "open_days": ['SAT', 'SUN']
+    },{
+        "name": "38 Barracks",
+        "cuisines": "North Indian, Italian, Asian, American",
+        "time_slot": [
+            { "opens_at": 10, "closes_at": 14 },
+            { "opens_at": 18, "closes_at": 20 },
+        ],
+        "open_days": ['MON', 'TUE', 'WED', 'THU', 'FRI']
+    },
+    {
+        "name": "Spezia Bistro",
+        "cuisines": "Cafe, Continental, Chinese, Italian",
+        "time_slot": [
+            { "opens_at": 12, "closes_at": 23 },
+        ],
+        "open_days": ['TUE', 'THU', 'SAT']
+    },{
+        "name": "Manhattan Brewery & Bar Exchange",
+        "cuisines": "Finger Food, American, Continental, North Indian, Italian",
+        "time_slot": [
+            { "opens_at": 9, "closes_at": 12 },
+            { "opens_at": 13, "closes_at": 23 }
+        ],
+        "open_days": ['MON', 'WED']
+    }
+]

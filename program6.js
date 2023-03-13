@@ -1,0 +1,1 @@
+// wirte a program to find restaurant opens only on Saturday and sunday
