@@ -1,0 +1,1 @@
+//write a porgram to find how many unique payment modes are there in the orders

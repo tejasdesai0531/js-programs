@@ -1,0 +1,142 @@
+[
+    {
+        "RestaurantID": "1",
+        "RestaurantName": "The Cave Hotel",
+        "Cuisine": "Continental",
+        "Zone": "Zone B",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "2",
+        "RestaurantName": "SSK Hotel",
+        "Cuisine": "North Indian",
+        "Zone": "Zone D",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "3",
+        "RestaurantName": "ASR Restaurant",
+        "Cuisine": "South Indian",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "4",
+        "RestaurantName": "Win Hotel",
+        "Cuisine": "South Indian",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "5",
+        "RestaurantName": "Denver Restaurant",
+        "Cuisine": "Continental",
+        "Zone": "Zone D",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "6",
+        "RestaurantName": "Willies",
+        "Cuisine": "French",
+        "Zone": "Zone D",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "7",
+        "RestaurantName": "AMN",
+        "Cuisine": "North Indian",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "8",
+        "RestaurantName": "Oslo",
+        "Cuisine": "French",
+        "Zone": "Zone B",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "9",
+        "RestaurantName": "Excel Restaurant",
+        "Cuisine": "North Indian",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "10",
+        "RestaurantName": "Dave Hotel",
+        "Cuisine": "South Indian",
+        "Zone": "Zone A",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "11",
+        "RestaurantName": "The Taste",
+        "Cuisine": "French",
+        "Zone": "Zone B",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "12",
+        "RestaurantName": "Ruchi",
+        "Cuisine": "Chinese",
+        "Zone": "Zone B",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "13",
+        "RestaurantName": "Veer Restaurant",
+        "Cuisine": "Chinese",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "14",
+        "RestaurantName": "KSR Hotel",
+        "Cuisine": "Chinese",
+        "Zone": "Zone A",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "15",
+        "RestaurantName": "Vrinda Bhavan",
+        "Cuisine": "North Indian",
+        "Zone": "Zone D",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "16",
+        "RestaurantName": "Anand Restaurant",
+        "Cuisine": "African",
+        "Zone": "Zone C",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "17",
+        "RestaurantName": "Zam Zam",
+        "Cuisine": "Arabian",
+        "Zone": "Zone C",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "18",
+        "RestaurantName": "Ellora",
+        "Cuisine": "African",
+        "Zone": "Zone C",
+        "Category": "Pro"
+    },
+    {
+        "RestaurantID": "19",
+        "RestaurantName": "Sam Hotel",
+        "Cuisine": "Belgian",
+        "Zone": "Zone A",
+        "Category": "Ordinary"
+    },
+    {
+        "RestaurantID": "20",
+        "RestaurantName": "Chew Restaurant",
+        "Cuisine": "Belgian",
+        "Zone": "Zone B",
+        "Category": "Ordinary"
+    }
+]

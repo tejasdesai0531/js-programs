@@ -1,0 +1,23 @@
+{
+  "name": "js-programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ord_prog1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasdesai0531/js-programs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejasdesai0531/js-programs/issues"
+  },
+  "homepage": "https://github.com/tejasdesai0531/js-programs#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
