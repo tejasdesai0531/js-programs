@@ -1,0 +1,1 @@
+// write a program to find total amount earned by all restaurants
